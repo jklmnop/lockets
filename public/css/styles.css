@@ -1,0 +1,17 @@
+body {
+    background-color: #000;
+    background-image: url('//static.tumblr.com/e85d0b0334cfd2c1a471859688c983de/s3160no/Hnrn4takl/tumblr_static_93ptlcgynd44sookkwwg00oww.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 75% 50%;
+    background-size: cover;
+    margin:0;    
+    
+}
+
+h1 {
+	background-image: url('//static.tumblr.com/e53818c65c1b01b79bfc55a32a10fcbd/s3160no/trumlzuvr/tumblr_static_locketslogo.png');
+	background-repeat: no-repeat;
+	height: 120px;
+	text-indent: -999999px;
+}
